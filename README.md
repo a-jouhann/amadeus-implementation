@@ -1,1 +1,1 @@
-This project will contains Amadeus flight SOAP implementation.
+This project will contain Amadeus flight SOAP implementation.
